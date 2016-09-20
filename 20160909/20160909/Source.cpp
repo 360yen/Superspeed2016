@@ -9,7 +9,7 @@ int main()
 	printf("‚P‚OŠÔ‚ğ’´‚¦‚½ê‡‚Ì‚PŠÔ‚Ì—¿‹à‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢\n");
 		scanf_s("%d", &a);
 
-		hako02 = kihon + a;
+		hako02 = kihon  + a;
 		hako03 = hako02 + a;
 		hako04 = hako03 + a;
 		hako05 = hako04 + a;
